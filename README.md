@@ -4,7 +4,7 @@
 
 ## 설치 방법
 
-1. [Releases](https://github.com/ychoi-kr/hwp-converter/releases)에서 `hwp-converter.zip` 다운로드
+1. [Releases](https://github.com/ychoi-kr/claude-hwp-converter-skill/releases)에서 `hwp-converter.zip` 다운로드
 2. Claude 열기
 3. **Settings** → **Capabilities** → **Skills**로 이동
 4. **Upload Skill** 클릭하여 zip 파일 업로드
@@ -20,7 +20,7 @@ HWP/HWPX 파일을 업로드하고 다음과 같이 요청하세요:
 
 ## 라이선스
 
-MIT License - 자세한 내용은 [LICENSE](LICENSE) 참고
+MIT License - 자세한 내용은 [LICENSE](LICENSE.md) 참고
 
 ## Acknowledgements
 
